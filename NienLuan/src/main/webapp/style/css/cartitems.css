@@ -1,0 +1,132 @@
+.bloc_left_price {
+    color: #c01508;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.category_block li:hover {
+    background-color: #007bff;
+}
+
+.category_block li:hover a {
+    color: #ffffff;
+}
+
+.category_block li a {
+    color: #343a40;
+}
+
+.add_to_cart_block .price {
+    color: #c01508;
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+    margin-bottom: 0;
+}
+
+.add_to_cart_block .price_discounted {
+    color: #343a40;
+    text-align: center;
+    text-decoration: line-through;
+    font-size: 140%;
+}
+
+.product_rassurance {
+    padding: 10px;
+    margin-top: 15px;
+    background: #ffffff;
+    border: 1px solid #6c757d;
+    color: #6c757d;
+}
+
+.product_rassurance .list-inline {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.product_rassurance .list-inline li:hover {
+    color: #343a40;
+}
+
+.reviews_product .fa-star {
+    color: gold;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.proImg {
+    width: 100px;
+    height: 100px;
+}
+
+.table {
+    font-size: 1.2rem;
+}
+
+.countertd {
+    display: flex;
+}
+
+.countertd input {
+    width: 50px;
+}
+
+#maincontent {
+    display: flex;
+    padding-left: 150px;
+}
+
+.cart__content {
+    box-shadow: 1px 1px 5px 0 rgba(70, 70, 70, 0.5) !important;
+}
+
+.card-body {
+    font-size: 1.2rem;
+}
+
+#headerinfo {
+    background-color: #DEEEEA;
+    color: blue;
+    border-bottom: 1px solid rgba(70, 70, 70, 0.5);
+}
+
+#orderBtn {
+    font-size: 1.6rem;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+}
+
+#forminfo {
+    max-height: 500px;
+    min-height: 500px;
+}
+
+tbody {
+    height: 560px;
+    display: block;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+tr {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+
+.titletext {
+    font-family: inherit;
+    color: blue;
+    font-weight: bold;
+}
+
+thead {
+    font-size: 1.4rem;
+    color: #091353;
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+#maintable tr td {
+    font-size: 1.2rem;
+}
+
+.itemi__modify {
+    margin-left: 20px;
+}
+
+.controlBtn {
+    font-size: 1.2rem;
+    width: 200px;
+    font-weight: bold;
+}
+
+#addBtn {
+    background-color: #396EB0;
+    color: white;
+}
+
+#paging ul {
+	margin: 0 auto;
+	font-size: 1.2rem;
+}
+
+#paging ul li a{
+	font-weight:bold;
+	color: #082032;
+
+}

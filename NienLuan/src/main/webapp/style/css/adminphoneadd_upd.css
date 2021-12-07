@@ -1,0 +1,54 @@
+#mainform {
+    display: flex;
+    font-size: 1.2rem;
+    margin: 0 auto;
+}
+
+#wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#cauhinhchitiet {
+    border: 1px solid lightgray;
+    font-size: 1rem;
+}
+
+#submitBtn {
+    background-color: #396EB0;
+    color: white;
+}
+
+.controlBtn {
+    font-size: 1.2rem;
+    width: 150px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+#redirectBtn {
+    background-color: #F3950D;
+    color: white;
+}
+
+#imgArea {
+	width:200px;
+    display: flex;
+    margin-bottom: 60px;
+    border: 1px solid lightgray;
+    justify-content: space-between;
+}
+
+#selectImgArea {
+    display: flex;
+    justify-content: space-between;
+}
+
+#imgSection {
+    font-size: 1.2rem;
+}
+
+label {
+    color: #009DAE;
+    font-weight: bolder;
+}
